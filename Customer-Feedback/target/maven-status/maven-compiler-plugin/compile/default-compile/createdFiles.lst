@@ -1,0 +1,8 @@
+com\newmanagement\MTIT05\CustomerFeedback\feedbackController\Controller.class
+com\newmanagement\MTIT05\CustomerFeedback\CustomerFeedbackApplication.class
+com\newmanagement\MTIT05\CustomerFeedback\Service\FeedbackServiceImp.class
+com\newmanagement\MTIT05\CustomerFeedback\dto\CreateUserRequest.class
+com\newmanagement\MTIT05\CustomerFeedback\Service\SpringFoxConfig.class
+com\newmanagement\MTIT05\CustomerFeedback\dto\FeedbackRequest.class
+com\newmanagement\MTIT05\CustomerFeedback\dto\FeedbackResponse.class
+com\newmanagement\MTIT05\CustomerFeedback\dto\CreateUserResponse.class
