@@ -1,0 +1,5 @@
+com\newmanagement\MTIT05\CustomerAccount\dto\UserRequest.class
+com\newmanagement\MTIT05\CustomerAccount\CustomerAccountApplication.class
+com\newmanagement\MTIT05\CustomerAccount\Controller\AccountController.class
+com\newmanagement\MTIT05\CustomerAccount\dto\UserResponse.class
+com\newmanagement\MTIT05\CustomerAccount\SpringFoxConfig.class
